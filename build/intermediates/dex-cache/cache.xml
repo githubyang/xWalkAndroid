@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yang/Documents/webview/xWalkAndroid/app/build/intermediates/exploded-aar/crosswalk-17.46.451.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ca286cb4c6a0e82da42b97c9419559b8956a403f">
+        <dex dex="/Users/yang/Documents/webview/xWalkAndroid/app/build/intermediates/pre-dexed/debug/classes-f0b8312088222d56ede43aea483ca938adbcbab8.jar" />
+    </item>
+
+</items>
